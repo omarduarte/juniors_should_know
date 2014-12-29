@@ -2,7 +2,7 @@ Please Contribute
 =================
 Source Repository: https://github.com/omarduarte/juniors_should_know/
 
-Any sugestions on the format and structure of this list are more than welcomed. 
+Any suggestions on the format and structure of this list are more than welcome. 
 To contribute:
    1. Fork this repository
    2. Find awesome links to add to the list (101, advanced, etc...)
