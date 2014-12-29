@@ -5,7 +5,7 @@ Source Repository: https://github.com/omarduarte/juniors_should_know/
 Any suggestions on the format and structure of this list are more than welcome. 
 To contribute:
    1. Fork this repository
-   2. Find awesome links to add to the list (101, advanced, etc...)
+   2. Find awesome links, shorten them, and add to the list (101, advanced, etc...)
    3. Send me a pull request
    4. ...
    5. Profit!
@@ -13,10 +13,10 @@ To contribute:
 
 NON-TECH
 - Impostor Syndrome
-  - TODO
+  - Overcoming Impostor Syndrome http://bit.ly/1nPfFkA
+  - 
 - Knowing your tools
   - Advice: "Stop judging people for their choice of editor."
-    - Lesson: TODO
   - Touch Typing
     - TODO
   - Sublime Shortcuts
