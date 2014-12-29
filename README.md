@@ -309,7 +309,7 @@ Chosing a DataBases
 Tips
   - Javascript
     - Advice: "Who cares is it tabs or spaces"
-      - Fred's Advice: "Use spaces, tabs are shown as '\t' in outside of text editors and are a not a good indicator for indentation."
+      - Fred Recommends: "Use spaces, tabs are shown as '\t' in outside of text editors and are a not a good indicator for indentation."
   - Git
     - Advice: "Know the ins and out of Git. Don't be afraid of rebasing"
     - Git Rebase
