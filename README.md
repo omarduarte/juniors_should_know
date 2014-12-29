@@ -5,7 +5,7 @@ Source Repository: https://github.com/omarduarte/juniors_should_know/
 Any sugestions on the format and structure of this list are more than welcomed. 
 To contribute:
    1. Fork this repository
-   2. Find awesome links to add to the list (101's, advanced, etc...)
+   2. Find awesome links to add to the list (101, advanced, etc...)
    3. Send me a pull request
    4. ...
    5. Profit!
@@ -26,7 +26,7 @@ NON-TECH
   - Chrome Shortcuts
     - TODO
 
-UNIX and it's offspring
+The UNIX console
 - Learn the used UNIX-based console commands.
   - TODO
 - (Need help adding stuff here!)
