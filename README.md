@@ -99,7 +99,7 @@ FrontEnd
   - Advice: "Learn Javascript, CoffeeScript is not Javascript."
   - Advice: "You don't always need an app."
   - Advice: "Don't sacrifice UX over using a tool that makes your life easier."
-    - Lesson: "Your Rich apps take long to load up, specially when the user is using a mobile device. If you don't need an app to show the                 content, don't use an app. If you do, then show a static page (mocking the app) while your app loads in the background."
+    - Lesson: "Your Rich apps take long to load up, specially when the user is using a mobile device. If you don't need an app to show the content, don't use an app. If you do, then show a static page (mocking the app) while your app loads in the background."
   - Advice: "Handle the read case."
     - Lesson: "Nothing makes a user more angry than being unable to reach the information they need."
   - Indexability (SEO Basics)
@@ -117,7 +117,7 @@ UX
   - Advice: "Don't move the cheese".
     -Lesson: "Messing with elements while scrolling will confuse and distract your users. Stop moving stuff."
   - Advice: "Don't block the content with an email subscription call to action."
-    - Omar's Advice: "Use sparingly. Only use when you feel your users have consumed most of the content they would in that visit and                            are about to leave the site."
+    - My Advice: "Use sparingly. Only use when you feel your users have consumed most of the content they would in that visit and are about to leave the site."
 
 State
   - Advice: "Never break links."
@@ -125,7 +125,7 @@ State
     - URL Redirection
       - TODO
   - Advice: "Keep URLs Meaningful."
-    - Lesson: "Use pushState to change URL in Rich web apps. Your users should be able to copy an URL from their browser and be able to                  share it with their friends."
+    - Lesson: "Use pushState to change URL in Rich web apps. Your users should be able to copy an URL from their browser and be able to share it with their friends."
       - pushState
           - TODO
   - Advice: "Avoid hashbangs!".
@@ -231,13 +231,13 @@ Coding Antipatterns
     - Advice: "You're not charged by the character."
       - Lesson: "Most editors have autocomplete. A long explicit variable name is better than a short, confusing one."
   - Advice: "Stop Being clever."
-    - Lesson: "You're coding for the next programmer that's going to read your code 2 years later when you're out in vacactions. Using                    obscure patterns and hard to read, yet clever, code requires a much higher investment of time to understand."
+    - Lesson: "You're coding for the next programmer that's going to read your code 2 years later when you're out in vacactions. Using obscure patterns and hard to read, yet clever, code requires a much higher investment of time to understand."
   - Advice: "Be Boring."
     - Lesson: "Use what works. Don't re-invent the wheel. Not everything is special."
 
 Code Readability
   - Advice: "Pretend the person that's going to read your code 6 months from now has your address and a gun."
-    - Lesson: "Before commiting, try to read your code from scratch and see if it's readable enough for the next person to understand.                   Change structure when necessary, try to eliminate confusion (or code line hopping) by being extra explicit. Your coding                   style shouldn't be unique and representative of yourself, but something understood and consumeable by everyone."
+    - Lesson: "Before commiting, try to read your code from scratch and see if it's readable enough for the next person to understand. Change structure when necessary, try to eliminate confusion (or code line hopping) by being extra explicit. Your coding style shouldn't be unique and representative of yourself, but something understood and consumeable by everyone."
 
 Time
   - Advice: "Use UTC"
@@ -309,8 +309,7 @@ Chosing a DataBases
 Tips
   - Javascript
     - Advice: "Who cares is it tabs or spaces"
-      - Fred's Advice: "Use spaces, tabs are shown as '\t' in outside of text editors and are a not a good indicator for  
-                        indentation."
+      - Fred's Advice: "Use spaces, tabs are shown as '\t' in outside of text editors and are a not a good indicator for indentation."
   - Git
     - Advice: "Know the ins and out of Git. Don't be afraid of rebasing"
     - Git Rebase
