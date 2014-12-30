@@ -13,18 +13,18 @@ To contribute:
 
 NON-TECH
 - Impostor Syndrome
-  - Overcoming Impostor Syndrome http://bit.ly/1nPfFkA
-  - 
+  - Overcoming Impostor Syndrome http://bit.ly/1nPfFkA   and   http://bit.ly/1yU3l4Y
 - Knowing your tools
   - Advice: "Stop judging people for their choice of editor."
   - Touch Typing
-    - TODO
+    - KeyBr http://bit.ly/1ti5cMc (Great UI, doesn't show hand position)
+    - Typing Club http://bit.ly/1vm7QQP (Excellent! Shows finger positions)
   - Sublime Shortcuts
-    - TODO
-  - Mac Shortcuts
-    - TODO
+    - Shortcuts Cheatsheet http://bit.ly/1x1xBeE
+  - OS X Shortcuts
+    - !!!SOMEONE DO A BLOG POST ABOUT THIS!!!
   - Chrome Shortcuts
-    - TODO
+    - Chrome Devtools CheatSheet http://bit.ly/1v8nvoJ
 
 The UNIX console
 - Learn the used UNIX-based console commands.
@@ -36,18 +36,17 @@ HTML
     - Lesson:
       - Use the appropiate tags for the following:
         - Headings
-          - TODO
+          - Heading Structure http://bit.ly/1AgtQmB
         - Articles
-          - TODO
+          - The article element http://bit.ly/13QWuxK
         - Lists
-          - TODO
+          - HTML Lists http://bit.ly/1zOisPL
         - Navigation
-          - TODO
+          - Semantic Navigation with the nav element http://bit.ly/1xeALLQ
         - Adresses
-          - TODO
+          - The Adress element http://bit.ly/1B2nkQD
         - Times
-          - TODO
-    
+          - Best of Time http://bit.ly/1wyUFwd
   - Use \<dl\>
     - TODO
   - Forms
