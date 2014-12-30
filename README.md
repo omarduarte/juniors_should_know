@@ -1,5 +1,6 @@
 Please Contribute
 =================
+Go to http://blog.omarduarte.me/stuff-every-junior-programmer-should-know/ to learn more about this repository.
 Source Repository: https://github.com/omarduarte/juniors_should_know/
 
 Any suggestions on the format and structure of this list are more than welcome. 
@@ -48,7 +49,7 @@ HTML
         - Times
           - Best of Time http://bit.ly/1wyUFwd
   - Use \<dl\>
-    - TODO
+    - The dl Element http://bit.ly/13QXqSS
   - Forms
     - Placeholders
       - TODO
