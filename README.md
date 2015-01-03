@@ -6,7 +6,7 @@ Source Repository: https://github.com/omarduarte/juniors_should_know/
 Any suggestions on the format and structure of this list are more than welcome. 
 To contribute:
    1. Fork this repository
-   2. Find awesome links, shorten them, and add to the list (101, advanced, etc...)
+   2. Find awesome links (avoid w3schools!), shorten them, and add to the list (101, advanced, etc...)
    3. Send me a pull request
    4. ...
    5. Profit!
@@ -52,18 +52,18 @@ HTML
     - The dl Element http://bit.ly/13QXqSS
   - Forms
     - Placeholders
-      - TODO
+      - HTML5 Placeholders http://bit.ly/1CRWBIH
     - Select Multiple
-      - TODO
-    - Label for="id"
-      - TODO
+      - HTML Multiple http://bit.ly/1rNklte
+    - label for={{ id-of-control-element }}
+      - W3 Standard Definition http://bit.ly/1wMQq0a
     - Optgroup
-      - TODO
+      - MDN Reference for optgroup http://mzl.la/1xCNDgR
     - Mobile
       - Autocomplete=off
-        - TODO
+        - MDN Web Security Blog Post http://mzl.la/1Br6ARk
       - Autocapitalize=off
-        - TODO
+        - Disabling Auto-Correct And Auto-Capitalize Features On iPhone Inputs http://bit.ly/1tHUpRi
   - Advice: "Code Smells."
     - Lesson: "Clean up before deploying. Comments are for you, not for the end user."
 CSS
@@ -308,8 +308,7 @@ Chosing a DataBases
 
 Tips
   - Javascript
-    - Advice: "Who cares is it tabs or spaces"
-      - Fred Recommends: "Use spaces, tabs are shown as '\t' in outside of text editors and are a not a good indicator for indentation."
+    - Advice: "Who cares if it is tabs or spaces"
   - Git
     - Advice: "Know the ins and out of Git. Don't be afraid of rebasing"
     - Git Rebase
