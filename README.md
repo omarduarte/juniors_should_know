@@ -68,7 +68,8 @@ HTML
     - Lesson: "Clean up before deploying. Comments are for you, not for the end user."
 CSS
   - Master the Box Model
-    - TODO
+    - The Box Model for Beginners http://bit.ly/1ljbFYS
+    - W3 Box Model Specifications http://bit.ly/13TljZD
   - Tricks that can save you a ton of time
     - Border-box for box sizing
       - TODO
