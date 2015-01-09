@@ -13,9 +13,16 @@ To contribute:
 
 
 NON-TECH
+- Dunning Kruger
+  - http://en.wikipedia.org/wiki/Dunning%E2%80%93Kruger_effect
+  - https://s3.amazonaws.com/media-p.slid.es/uploads/seldo/images/642521/Dunning-Kruger.jpg
 - Impostor Syndrome
   - Overcoming Impostor Syndrome http://bit.ly/1nPfFkA   and   http://bit.ly/1yU3l4Y
 - Knowing your tools
+  - Get really fast at typing and editing, because that's what you spend all your time doing
+  - Automate any task that you do frequently; small tasks add up to big time savings
+  - https://s3.amazonaws.com/media-p.slid.es/uploads/seldo/images/500454/5U7kA5mgcAnqsyd_b6WoipN0HptToRIxbBJMnMtWXa8.png
+  - http://xkcd.com/1205/
   - Advice: "Stop judging people for their choice of editor."
   - Touch Typing
     - KeyBr http://bit.ly/1ti5cMc (Great UI, doesn't show hand position)
@@ -115,6 +122,7 @@ FrontEnd
 
 UX
   - Advice: "No one cares about carousels"
+    - http://www.nngroup.com/articles/designing-effective-carousels/
   - Advice: "Don't move the cheese".
     -Lesson: "Messing with elements while scrolling will confuse and distract your users. Stop moving stuff."
   - Advice: "Don't block the content with an email subscription call to action."
@@ -283,6 +291,8 @@ Chosing a DataBases
       - TODO
     - MySQL
       - TODO
+      - SQL is actually great
+      - http://seldo.com/weblog/2010/07/12/in_defence_of_sql
     - Postgres
       - TODO
     - Oracle
@@ -306,6 +316,8 @@ Chosing a DataBases
     - Advice: "Replication is not a substitute for Backups."
   - Race Conditions
     - TODO
+  - ORM is an antipattern
+    - http://seldo.com/weblog/2011/08/11/orm_is_an_antipattern
 
 Tips
   - Javascript
@@ -330,3 +342,9 @@ Tips
       - TODO
     - P2P
       - TODO
+
+Career
+  - People are bad at giving technical interviews
+    - http://seldo.com/weblog/2014/08/26/you_suck_at_technical_interviews
+  - Here's how to do well at interviews:
+    - https://docs.google.com/document/d/1aFOWFfIjQkBLlEsfmwttqmG-vB-FmWn39I1y6Kz9whM/edit
