@@ -220,7 +220,7 @@ Caching
     - Todo
     
 Debugging and Testing
-  - Advice: "Don't be supersticious."
+  - Advice: "Don't be superstitious."
     - Lesson: TODO
   - Advice: "Be Explorative."
     - Lesson: "Use your language's Read Eval Print Loop (console) to test out everything you don't quite understand."
@@ -239,7 +239,7 @@ Coding Antipatterns
   - Variable Names
     - Advice: "You're not charged by the character."
       - Lesson: "Most editors have autocomplete. A long explicit variable name is better than a short, confusing one."
-  - Advice: "Stop Being clever."
+  - Advice: "Stop being clever."
     - Lesson: "You're coding for the next programmer that's going to read your code 2 years later when you're out in vacactions. Using obscure patterns and hard to read, yet clever, code requires a much higher investment of time to understand."
   - Advice: "Be Boring."
     - Lesson: "Use what works. Don't re-invent the wheel. Not everything is special."
