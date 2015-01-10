@@ -1,6 +1,6 @@
 Please Contribute
 =================
-Go to http://blog.omarduarte.me/stuff-every-junior-programmer-should-know/ to learn more about this repository.
+Go to http://blog.omarduarte.me/stuff-every-junior-developer-should-know/ to learn more about this repository.
 Source Repository: https://github.com/omarduarte/juniors_should_know/
 
 Any suggestions on the format and structure of this list are more than welcome. 
