@@ -3,7 +3,7 @@ Please Contribute
 Go to http://blog.omarduarte.me/stuff-every-junior-developer-should-know/ to learn more about this repository.
 Source Repository: https://github.com/omarduarte/juniors_should_know/
 
-Any suggestions on the format and structure of this list are more than welcome. 
+Any suggestions on the format and structure of this list are more than welcome.
 To contribute:
    1. Fork this repository
    2. Find awesome links (avoid w3schools!), shorten them, and add to the list (101, advanced, etc...)
@@ -20,7 +20,7 @@ NON-TECH
   - Overcoming Impostor Syndrome http://bit.ly/1nPfFkA   and   http://bit.ly/1yU3l4Y
 - Knowing your tools
   - Get really fast at typing and editing, because that's what you spend all your time doing
-  - Automate any task that you do frequently; small tasks add up to big time savings 
+  - Automate any task that you do frequently; small tasks add up to big time savings
     - http://bit.ly/1x48brP and http://xkcd.com/1205/
   - Advice: "Stop judging people for their choice of editor."
   - Touch Typing
@@ -34,10 +34,36 @@ NON-TECH
     - Chrome Devtools CheatSheet http://bit.ly/1v8nvoJ
 
 The UNIX console
-- Learn the used UNIX-based console commands.
-  - TODO
-- (Need help adding stuff here!)
-  
+- Learn most commonly used UNIX-based console commands.
+
+  Advice: Understanding Unix/Linux is key to become a better developer.
+          Many things which might require complex programs can be done easily
+          by pipelining basic Unix commands.
+
+  - The Basics.
+    - Basic commands everyone should be comfortable with.
+    (http://stanford.io/1IsDAN4)
+
+    - Basics about Unix in general, I/O redirection and pipelines
+    (http://bit.ly/14wPCpj)
+
+  - AWK tutorial. AWK is a real handy command all developers should know.
+    (http://bit.ly/1DVsZYw)
+
+  - SED tutorial. Another powerful and handy command.
+    (http://bit.ly/1y8N7HV)
+
+  - Advanced but incredibly handy.
+    - AWK cheat sheet
+      (http://bit.ly/1KGSBgp)
+
+    - SED cheat sheet
+      (http://bit.ly/1xXJkuT)
+
+  - Beyond just the basics
+    - UNIX : The ultimate guide covers nearly all aspects of Unix/Linux
+     (http://amzn.to/1FRUzKY)
+
 HTML
   - Advice: "HTML is meaningful".
     - Lesson:
@@ -217,7 +243,7 @@ Caching
     - TODO
   - Preprocessing
     - Todo
-    
+
 Debugging and Testing
   - Advice: "Don't be superstitious."
     - Lesson: TODO
@@ -252,7 +278,7 @@ Time
     - TODO
   - Advice: "Use ISO 8601 as timestamps"
     - TODO
-    
+
 - Character Encoding
   - UTF-8
     - TODO
