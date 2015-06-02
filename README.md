@@ -42,7 +42,7 @@ The UNIX console
 
   - The Basics.
     - Basic commands everyone should be comfortable with.
-    (http://stanford.io/1IsDAN4)
+    (http://bit.ly/1nVrUGa)
 
     - Basics about Unix in general, I/O redirection and pipelines
     (http://bit.ly/14wPCpj)
