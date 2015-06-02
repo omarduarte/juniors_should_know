@@ -103,30 +103,26 @@ CSS
     - The Box Model for Beginners http://bit.ly/1ljbFYS
     - W3 Box Model Specifications http://bit.ly/13TljZD
   - Tricks that can save you a ton of time
-    - Border-box for box sizing
-      - TODO
-    - Display: table-cell
-      - TODO
+    - border-box for box sizing
+      - http://bit.ly/1Fnj3p2
+    - display: table-cell
+      - http://mzl.la/1FqkDrr (all display properties)
     - @media selectors
-      - TODO
-    - Attribute selectors
+      - http://bit.ly/1EQxYHP
+    - Attribute selectors 
+     - Explained: http://bit.ly/1FZvFro
      - input[type=radio]
-       - TODO
      - div[data-foo~=value]
-       - TODO
      - div[data-foo|=value]
-       - TODO
      - a[href^=http]
-       - TODO
      - a[href$=.zip]
-       - TODO
   - Advice: "CSS animation is way better than Javascript animation"
-    - Lesson: TODO
+    - Lesson: Take with a grain of salt (http://bit.ly/1AGVrAq)
   - Learn one of the following:
     - SASS
-      - TODO
+      - http://bit.ly/OqI5Rm
     - LESS
-      - TODO
+      - http://bit.ly/QfzOjE
 
 FrontEnd
   - Advice: "Learn Javascript, CoffeeScript is not Javascript."
