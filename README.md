@@ -11,3 +11,8 @@ To contribute:
    4. ...
    5. Profit!
 
+These lists are subdivided into these categories:
+   1. pre-job.md - Interviewing for jobs or perfecting your resume, etc.
+   2. tools.md - Programming languages, operating systems, IDEs, front-end, back-end, etc.
+   3. methodologies.md - Organization, efficiency, security, etc.
+   4. misc.md - Other important stuff that doesn't fit above
