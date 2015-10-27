@@ -18,6 +18,8 @@ NON-TECH
   - Dunnning Kruger Effect Graph http://bit.ly/1wCvhqu
 - Impostor Syndrome
   - Overcoming Impostor Syndrome http://bit.ly/1nPfFkA   and   http://bit.ly/1yU3l4Y
+- Bikeshedding
+  - Parkinson's law of triviality (Wikipedia) https://www.wikiwand.com/en/Parkinson's_law_of_triviality
 - Knowing your tools
   - Get really fast at typing and editing, because that's what you spend all your time doing
   - Automate any task that you do frequently; small tasks add up to big time savings 
