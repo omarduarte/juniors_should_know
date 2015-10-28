@@ -368,8 +368,26 @@ Tips
     - Advice: "Who cares if it is tabs or spaces"
   - Git
     - Advice: "Know the ins and out of Git. Don't be afraid of rebasing"
-    - Git Rebase
-      - TODO
+    - Git Rebase: 
+        [Atlassian merging vs. rebasing](https://www.atlassian.com/git/tutorials/merging-vs-rebasing/summary)
+
+      - The Golden Rule Of Rebasing: *Don't rebase public branches*
+
+      - Rebasing detaches your entire branch and places it on top of another, giving a linear commit graph. 
+      - Merging joins the head of two branches, showing a fork in the commit graph.
+
+      - If you are unsure of how a rebase will turn out, do it in a separate branch to avoid getting your working copy into an unrecoverable state
+
+      - Advantages: 
+        - Linear history
+        - Easier to use `git log` and more advanced commands such as `git bisect`
+
+      - Disadvantages:
+        - Harder to determine when merges happened/loses context with time (older commits can be placed after newer ones)
+        - A destructive operation (changes commit hashes AKA "history")
+
+
+
     - Git Merge Conflicts
       - TODO
   - Deployment
