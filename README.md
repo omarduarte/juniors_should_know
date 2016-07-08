@@ -76,8 +76,8 @@ HTML
           - HTML Lists http://bit.ly/1zOisPL
         - Navigation
           - Semantic Navigation with the nav element http://bit.ly/1xeALLQ
-        - Adresses
-          - The Adress element http://bit.ly/1B2nkQD
+        - Addresses
+          - The Address element http://bit.ly/1B2nkQD
         - Times
           - Best of Time http://bit.ly/1wyUFwd
   - Use \<dl\>
